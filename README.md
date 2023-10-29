@@ -22,11 +22,4 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafxnzz}/count.svg" /></p> 
-<br>
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19bcd1&height=120&section=footer"/>
